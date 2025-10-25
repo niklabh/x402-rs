@@ -17,7 +17,6 @@ This directory contains the CI/CD pipelines for the x402-rs project.
   - Example builds
 - **Coverage**: Generates code coverage reports and uploads to Codecov
 - **Documentation**: Builds Rustdoc to ensure docs compile
-- **Security Audit**: Checks for known security vulnerabilities
 - **Dependencies Check**: Monitors outdated dependencies
 - **Release Build**: Tests optimized release builds
 
@@ -72,7 +71,6 @@ Add these to your README.md:
 
 ```markdown
 [![CI](https://github.com/niklabh/x402-rs/workflows/CI/badge.svg)](https://github.com/niklabh/x402-rs/actions/workflows/ci.yml)
-[![Security Audit](https://github.com/niklabh/x402-rs/workflows/Security%20Audit/badge.svg)](https://github.com/niklabh/x402-rs/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/niklabh/x402-rs/branch/main/graph/badge.svg)](https://codecov.io/gh/niklabh/x402-rs)
 ```
 
