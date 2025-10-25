@@ -1,0 +1,36 @@
+# Rust
+/target/
+**/*.rs.bk
+*.pdb
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Testing
+*.profraw
+
+# Documentation
+/docs/
+
+# Build artifacts
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exe
+
+# Debug
+debug/
+
