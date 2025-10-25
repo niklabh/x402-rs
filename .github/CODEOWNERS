@@ -1,0 +1,17 @@
+# Code owners for x402-rs
+
+# Default owners for everything in the repo
+* @niklabh
+
+# Specific ownership for critical components
+/src/schemes/ @niklabh
+/src/types.rs @niklabh
+/src/errors.rs @niklabh
+
+# CI/CD and infrastructure
+/.github/ @niklabh
+
+# Documentation
+/README.md @niklabh
+/CONTRIBUTING.md @niklabh
+

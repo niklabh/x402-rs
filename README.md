@@ -1,8 +1,10 @@
 # x402-rs
 
+[![CI](https://github.com/niklabh/x402-rs/workflows/CI/badge.svg)](https://github.com/niklabh/x402-rs/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/x402-rs.svg)](https://crates.io/crates/x402-rs)
 [![Documentation](https://docs.rs/x402-rs/badge.svg)](https://docs.rs/x402-rs)
-[![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg)](LICENSE-MIT)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE-APACHE)
+[![Rust Version](https://img.shields.io/badge/rust-1.70%2B-blue.svg)](https://www.rust-lang.org)
 
 A complete, production-ready Rust implementation of the [x402 protocol](https://x402.org) for blockchain-based micropayments over HTTP.
 
@@ -285,8 +287,8 @@ at your option.
 ## Support
 
 - 📖 [Documentation](https://docs.rs/x402-rs)
-- 🐛 [Issue Tracker](https://github.com/yourusername/x402-rs/issues)
-- 💬 [Discussions](https://github.com/yourusername/x402-rs/discussions)
+- 🐛 [Issue Tracker](https://github.com/niklabh/x402-rs/issues)
+- 💬 [Discussions](https://github.com/niklabh/x402-rs/discussions)
 
 ---
 

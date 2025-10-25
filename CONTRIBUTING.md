@@ -45,7 +45,7 @@ This project adheres to a code of conduct. By participating, you are expected to
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/x402-rs.git
+git clone https://github.com/niklabh/x402-rs.git
 cd x402-rs
 
 # Build the project
